@@ -85,6 +85,10 @@ h1 {
     margin-right: 0 !important;
 }
 
+.project-name {
+    font-size: 3vw;
+}
+
 .content {
     padding-top: 3vh !important;
 }
@@ -171,6 +175,10 @@ h1 {
 }
 
 @media only screen and (max-width: 1000px) {
+    .project-name {
+        font-size: 30px;
+    }
+
     .sub-section {
         padding-left: 10vw; 
         padding-right: 10vw; 
