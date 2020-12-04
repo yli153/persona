@@ -32,6 +32,7 @@ a {
     color: grey !important;
 }
 
+
 h1 {
     display: inline;
 }
@@ -40,6 +41,18 @@ h1 {
     padding-top: 1.2vw !important;
     padding-bottom: 1.2vw !important;
     background-color:white;
+}
+
+.active a {
+    color: #6131ff !important;
+}
+
+.header-link:hover {
+    color: #6131ff !important;
+}
+
+.nav-link:hover {
+    color: rgba(0, 0, 0, 0.9) !important;
 }
 
 .nav-link {
